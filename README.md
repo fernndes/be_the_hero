@@ -8,7 +8,7 @@
 
 Este projeto busca unir organizações filantrópicas e pessoas interessadas em ajudar tais organizações em seus casos.
 
-# Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 Este projeto utilizou as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
