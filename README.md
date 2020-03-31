@@ -20,3 +20,8 @@ Este projeto utilizou as seguintes tecnologias:
 - [Axios](https://www.npmjs.com/package/axios)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Jest](https://www.npmjs.com/package/jest)
+
+## Frontend com ReactJS
+
+#### Imagens:
+
