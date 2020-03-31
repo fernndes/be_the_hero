@@ -8,7 +8,8 @@
   </a>
 </p>
 
-Este projeto busca unir ONGs e pessoas interessadas em ajudar financeiramente tais organizações .
+Este projeto busca unir ONGs e pessoas interessadas em ajudar financeiramente tais organizações.
+Foi desenvolvido durante a 11ª edição da semana OmniStack promovida pela Rocketseat.
 
 ## Tecnologias utilizadas:
 
