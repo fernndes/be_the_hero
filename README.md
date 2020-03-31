@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Este projeto busca unir organizações filantrópicas e pessoas interessadas em ajudar tais organizações em seus casos.
+Este projeto busca unir ONGs e pessoas interessadas em ajudar financeiramente tais organizações .
 
 ## Tecnologias utilizadas:
 
