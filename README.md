@@ -1,4 +1,7 @@
 # Be the Hero
+<h4 align='center>
+  <img src='![logo](https://user-images.githubusercontent.com/59981795/78054744-e71d6100-7358-11ea-9483-d505d3ffac80.png)' width='200px'/>
+</h4>
 ![logo](https://user-images.githubusercontent.com/59981795/78054744-e71d6100-7358-11ea-9483-d505d3ffac80.png)
 <p align="center">
   <a href="https://rocketseat.com.br">
