@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/59981795/78054744-e71d6100-7358-11ea-9483-d505d3ffac80.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/59981795/78054744-e71d6100-7358-11ea-9483-d505d3ffac80.png" width="500"/>
 </h1>
 <br>
 <p align="center">
@@ -37,8 +37,8 @@ Este projeto utilizou as seguintes tecnologias:
 ### Imagens:
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/59981795/78057579-57c67c80-735d-11ea-872e-aba59d3ecb32.jpeg" width="200"/>
-  <img src="https://user-images.githubusercontent.com/59981795/78057560-4da47e00-735d-11ea-907b-39b5325222e9.jpeg" width="200"/>
+  <img src="https://user-images.githubusercontent.com/59981795/78057579-57c67c80-735d-11ea-872e-aba59d3ecb32.jpeg" width="300"/>
+  <img src="https://user-images.githubusercontent.com/59981795/78057560-4da47e00-735d-11ea-907b-39b5325222e9.jpeg" width="300"/>
   
 </h1>
 
