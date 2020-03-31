@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/59981795/78054744-e71d6100-7358-11ea-9483-d505d3ffac80.png" width="300"/>
-</h2>
+</h1>
 <br>
 <p align="center">
   <a href="https://rocketseat.com.br">
