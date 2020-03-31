@@ -9,6 +9,7 @@
 </p>
 
 Este projeto busca unir ONGs e pessoas interessadas em ajudar financeiramente tais organizações.
+<br>
 Foi desenvolvido durante a 11ª edição da semana OmniStack promovida pela Rocketseat.
 
 ## Tecnologias utilizadas:
